@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>AOSiP</RomName>
+  <VersionName>6.2</VersionName>
+  <VersionNumber type="integer">20170728</VersionNumber>
+  <DirectUrl>http://qc4.androidfilehost.com/dl/tNwNxvGwWBRxg6ctmVjIrg/1501467593/745425885120751821/AOSiP-6.2-Derp-shamu-20170728.zip</DirectUrl>
+  <HttpUrl nil=true/>
+  <Android>7.1.2</Android>
+  <CheckMD5>aac2d7bd70f2e42919845279ea2842ff</CheckMD5>
+  <FileSize type="integer">493947411</FileSize>
+  <Developer>Team Illusion</Developer>
+  <WebsiteURL>http://aosiprom.com</WebsiteURL>
+  <DonateURL>http://paypal.me/aosip</DonateURL>
+ <Changelog>July Patch.</Changelog>
+</ROM>
