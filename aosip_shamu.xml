@@ -3,8 +3,8 @@
   <RomName>AOSiP</RomName>
   <VersionName>6.2</VersionName>
   <VersionNumber type="integer">20170809</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/2GdHWPhzA5t_VFFQ3aCWzw/1502593164/889764386195921862/AOSiP-6.2-Derp-shamu-20170809.zip</DirectUrl>
-  <HttpUrl>https://androidfilehost.com/?w=files&flid=202255</HttpUrl>
+  <DirectUrl>https://sourceforge.net/projects/aosip-unofficial/files/shamu/AOSiP-6.2-Derp-shamu-20170809.zip/download</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/aosip-unofficial/files/shamu/</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>53304cbeecf860f16089ecb4e27c02a0</CheckMD5>
   <FileSize type="integer">503104947</FileSize>
