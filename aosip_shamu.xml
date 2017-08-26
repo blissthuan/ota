@@ -2,7 +2,7 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>AOSiP</RomName>
-  <VersionName>20170821</VersionName>
+  <VersionName>6.3-Derp</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
@@ -25,7 +25,7 @@
   <FileSize type="integer">504051596</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>Ganesh Varma</Developer>
+  <Developer>mr.nth.na.vn</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
   <WebsiteURL>http://www.aosiprom.com</WebsiteURL>
@@ -39,5 +39,5 @@
 * added Spectrum support
 * reduced wakeup delay
 * latest upstream changes
-</Changelog>
+<Changelog>Aug Patch.</Changelog>
 </ROM>
