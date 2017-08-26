@@ -4,7 +4,7 @@
   <VersionName>6.3</VersionName>
   <VersionNumber type="integer">20170821</VersionNumber>
   <DirectUrl>https://sourceforge.net/projects/aosip-unofficial/files/shamu/AOSiP-6.3-Derp-shamu-20170821.zip/download</DirectUrl>
-  <HttpUrl nil=true/>
+  <HttpUrl>https://sourceforge.net/projects/aosip-unofficial/files/shamu/</HttpUrl>
   <Android>8.0.0</Android>
   <CheckMD5>a0821eb99b6ff6d22256439cdf27fb39</CheckMD5>
   <FileSize type="integer">504051596</FileSize>
