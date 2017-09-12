@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.3</VersionName>
-  <VersionNumber type="integer">20170909</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/aosip-unofficial/files/lithium/AOSiP-6.3-Derp-lithium-20170909.zip/download</DirectUrl>
+  <VersionNumber type="integer">20170911</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/aosip-unofficial/files/lithium/AOSiP-6.3-Derp-lithium-20170911.zip/download</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/aosip-unofficial/files/lithium/</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>28d0eb1938f67fe5579e43b24ffcc8bb</CheckMD5>
-  <FileSize type="integer">543472488</FileSize>
+  <CheckMD5>8cea0f7ce49d96044ae591c85f55db4d</CheckMD5>
+  <FileSize type="integer">543470977</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
