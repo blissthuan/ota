@@ -16,7 +16,7 @@
   <DirectUrl>https://sourceforge.net/projects/aosip-unofficial/files/shamu/AOSiP-6.3-Derp-shamu-20170826.zip/download</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/aosip-unofficial/files/shamu/</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>8.0.0</Android>
+  <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
   <CheckMD5>541f4c7aba9c2e5d4b232367237b2d61</CheckMD5>
@@ -34,10 +34,10 @@
   <DonateURL>http://www.paypal.me/aosip</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 20170826
+  <Changelog>### Changelog 20170918
 * added Flac support
 * added Spectrum support
 * reduced wakeup delay
 * latest upstream changes
-<Changelog>Aug Patch.</Changelog>
+<Changelog>Sep Patch.</Changelog>
 </ROM>
