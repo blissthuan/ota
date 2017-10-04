@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="moepda/android_device_moto_shamu" path="device/moto/shamu" remote="github" revision="o8x" />
-  <project name="moepda/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="8x" />
-  <project name="moepda/android_vendor_motorola" path="vendor/motorola" remote="github" revision="8x" />
+  <project name="moepda/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="o8x" />
+  <project name="moepda/android_vendor_motorola" path="vendor/motorola" remote="github" revision="o8x" />
 </manifest>
